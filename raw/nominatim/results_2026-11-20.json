@@ -1,0 +1,313 @@
+{
+ "aoum": {
+  "query": "Ospedale Regionale Umberto I, Torrette, Ancona",
+  "status": 200,
+  "results": [
+   {
+    "place_id": 80180563,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "relation",
+    "osm_id": 9292581,
+    "lat": "43.6020639",
+    "lon": "13.4537230",
+    "category": "amenity",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 6.98184176393838e-05,
+    "addresstype": "amenity",
+    "name": "Ospedali Riuniti - Presidio ospedaliero di Torrette",
+    "display_name": "Ospedali Riuniti - Presidio ospedaliero di Torrette, 71, Via Conca, Torrette, Ancona, Marche, 60126, Italia",
+    "boundingbox": [
+     "43.5993225",
+     "43.6048103",
+     "13.4504714",
+     "13.4572825"
+    ]
+   }
+  ]
+ },
+ "aoum2": {
+  "query": "Ospedali Riuniti, Torrette, Ancona",
+  "status": 200,
+  "results": [
+   {
+    "place_id": 80180563,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "relation",
+    "osm_id": 9292581,
+    "lat": "43.6020639",
+    "lon": "13.4537230",
+    "category": "amenity",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 6.98184176393838e-05,
+    "addresstype": "amenity",
+    "name": "Ospedali Riuniti - Presidio ospedaliero di Torrette",
+    "display_name": "Ospedali Riuniti - Presidio ospedaliero di Torrette, 71, Via Conca, Torrette, Ancona, Marche, 60126, Italia",
+    "boundingbox": [
+     "43.5993225",
+     "43.6048103",
+     "13.4504714",
+     "13.4572825"
+    ]
+   },
+   {
+    "place_id": 420178894,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 13948621987,
+    "lat": "43.6031358",
+    "lon": "13.4543495",
+    "category": "amenity",
+    "type": "clinic",
+    "place_rank": 30,
+    "importance": 6.98184176393838e-05,
+    "addresstype": "amenity",
+    "name": "Clinica di Cardiologia e Aritmologia",
+    "display_name": "Clinica di Cardiologia e Aritmologia, 71, Via Conca, Torrette, Ancona, Marche, 60126, Italia",
+    "boundingbox": [
+     "43.6030858",
+     "43.6031858",
+     "13.4542995",
+     "13.4543995"
+    ]
+   }
+  ]
+ },
+ "inrca": {
+  "query": "INRCA, Ancona",
+  "status": 200,
+  "results": [
+   {
+    "place_id": 79717288,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 509342221,
+    "lat": "43.6126612",
+    "lon": "13.5346103",
+    "category": "building",
+    "type": "villa",
+    "place_rank": 30,
+    "importance": 0.16273786379520622,
+    "addresstype": "building",
+    "name": "Direzione amministrativa INRCA (Villa Gusso)",
+    "display_name": "Direzione amministrativa INRCA (Villa Gusso), Via Santa Margherita, Passetto, Ancona, Marche, 60124, Italia",
+    "boundingbox": [
+     "43.6124555",
+     "43.6128202",
+     "13.5344717",
+     "13.5348359"
+    ]
+   },
+   {
+    "place_id": 79892461,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "relation",
+    "osm_id": 1605695,
+    "lat": "43.5939025",
+    "lon": "13.5131403",
+    "category": "amenity",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 6.98184176393838e-05,
+    "addresstype": "amenity",
+    "name": "INRCA - Presidio Ospedaliero di Ricerca \"Ulderico Sestilli\"",
+    "display_name": "INRCA - Presidio Ospedaliero di Ricerca \"Ulderico Sestilli\", 81, Via Montagnola, Tavernelle, Ancona, Marche, 60127, Italia",
+    "boundingbox": [
+     "43.5923259",
+     "43.5953862",
+     "13.5118734",
+     "13.5141212"
+    ]
+   }
+  ]
+ },
+ "salvatore": {
+  "query": "Ospedale San Salvatore, Pesaro",
+  "status": 200,
+  "results": [
+   {
+    "place_id": 79799606,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 10299454929,
+    "lat": "43.9083423",
+    "lon": "12.9054849",
+    "category": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 6.668421454180236e-05,
+    "addresstype": "highway",
+    "name": "Ospedale San Salvatore",
+    "display_name": "Ospedale San Salvatore, Viale della Liberazione, Centro storico, Pantano, Pesaro, Pesaro e Urbino, Marche, 61121, Italia",
+    "boundingbox": [
+     "43.9082923",
+     "43.9083923",
+     "12.9054349",
+     "12.9055349"
+    ]
+   }
+  ]
+ },
+ "santacroce": {
+  "query": "Ospedale Santa Croce, Fano",
+  "status": 200,
+  "results": [
+   {
+    "place_id": 79380475,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 150226110,
+    "lat": "43.8377957",
+    "lon": "13.0223859",
+    "category": "amenity",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 6.230182345307115e-05,
+    "addresstype": "amenity",
+    "name": "Ospedale Santa Croce",
+    "display_name": "Ospedale Santa Croce, 2, Via Vittorio Veneto, Zavarise, San Lazzaro, Fano, Pesaro e Urbino, Marche, 61032, Italia",
+    "boundingbox": [
+     "43.8365571",
+     "43.8389880",
+     "13.0207095",
+     "13.0240522"
+    ]
+   }
+  ]
+ },
+ "senigallia": {
+  "query": "Ospedale Principe di Piemonte, Senigallia",
+  "status": 200,
+  "results": [
+   {
+    "place_id": 79088786,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 24591478,
+    "lat": "43.7142079",
+    "lon": "13.2094574",
+    "category": "amenity",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 6.0847638666315975e-05,
+    "addresstype": "amenity",
+    "name": "Ospedale \"Principe di Piemonte\"",
+    "display_name": "Ospedale \"Principe di Piemonte\", 1, Via Benvenuto Cellini, Portone, Borgo Ribeca, Senigallia, Ancona, Marche, 60019, Italia",
+    "boundingbox": [
+     "43.7130199",
+     "43.7153421",
+     "13.2073550",
+     "13.2110920"
+    ]
+   }
+  ]
+ },
+ "salesi": {
+  "query": "Ospedale Salesi, Ancona",
+  "status": 200,
+  "results": [
+   {
+    "place_id": 78818008,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "relation",
+    "osm_id": 8504945,
+    "lat": "43.6169108",
+    "lon": "13.5323897",
+    "category": "amenity",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 6.98184176393838e-05,
+    "addresstype": "amenity",
+    "name": "Presidio Ospedaliero \"Gaspare Salesi\"",
+    "display_name": "Presidio Ospedaliero \"Gaspare Salesi\", 11, Via Filippo Corridoni, Passetto, Ancona, Marche, 60123, Italia",
+    "boundingbox": [
+     "43.6163572",
+     "43.6174083",
+     "13.5318376",
+     "13.5330089"
+    ]
+   }
+  ]
+ },
+ "salvatore2": {
+  "query": "San Salvatore hospital Pesaro",
+  "status": 200,
+  "results": [
+   {
+    "place_id": 79786925,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 234311520,
+    "lat": "43.8896077",
+    "lon": "12.9285541",
+    "category": "amenity",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 6.668421454180236e-05,
+    "addresstype": "amenity",
+    "name": "Ospedale San Salvatore di Pesaro sede Muraglia",
+    "display_name": "Ospedale San Salvatore di Pesaro sede Muraglia, Via Cesare Lombroso, Muraglia, Pantano, Pesaro, Pesaro e Urbino, Marche, 61122, Italia",
+    "boundingbox": [
+     "43.8877884",
+     "43.8916316",
+     "12.9250876",
+     "12.9316283"
+    ]
+   },
+   {
+    "place_id": 79987591,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 62775776,
+    "lat": "43.9075382",
+    "lon": "12.9071732",
+    "category": "amenity",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 6.668421454180236e-05,
+    "addresstype": "amenity",
+    "name": "Ospedale San Salvatore di Pesaro sede centrale",
+    "display_name": "Ospedale San Salvatore di Pesaro sede centrale, 4, Piazzale Carlo Cinelli, Centro storico, Pantano, Pesaro, Pesaro e Urbino, Marche, 61121, Italia",
+    "boundingbox": [
+     "43.9066162",
+     "43.9083008",
+     "12.9056647",
+     "12.9086116"
+    ]
+   }
+  ]
+ },
+ "salvatore3": {
+  "query": "Presidio Ospedaliero San Salvatore Muraglia Pesaro",
+  "status": 200,
+  "results": []
+ },
+ "salvatore_struct": {
+  "query": "amenity=hospital city=Pesaro",
+  "status": 200,
+  "results": [
+   {
+    "place_id": 79802186,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 5754819143,
+    "lat": "43.9075889",
+    "lon": "12.9081827",
+    "category": "emergency",
+    "type": "emergency_ward_entrance",
+    "place_rank": 30,
+    "importance": 6.668421454180236e-05,
+    "addresstype": "emergency",
+    "name": "Pronto Soccorso Pesaro - Emergency",
+    "display_name": "Pronto Soccorso Pesaro - Emergency, Piazzale Carlo Albani, Centro storico, Pantano, Pesaro, Pesaro e Urbino, Marche, 61121, Italia",
+    "boundingbox": [
+     "43.9075389",
+     "43.9076389",
+     "12.9081327",
+     "12.9082327"
+    ]
+   }
+  ]
+ }
+}

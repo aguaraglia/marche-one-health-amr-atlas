@@ -1,0 +1,79 @@
+{
+  "schema_version": "1.0",
+  "edition": "marche_amr_atlas",
+  "source_id": "ar_iss_2024_marche",
+  "period": 2024,
+  "geography": "Marche",
+  "scope": "isolati da sangue e liquor; sorveglianza AR-ISS",
+  "coverage": {
+    "value_percent": 83.6,
+    "denominator": "giornate di degenza per ricoveri ordinari per acuti; SDO dimessi 2023",
+    "limitations": "non corregge per gravità; considera i laboratori che hanno inviato emocolture e/o liquor; le Marche non hanno una rete regionale AR-ISS e partecipano con i singoli laboratori; serie dal 2015, salto di numerosità dal 2019 e di nuovo nel 2023-2024"
+  },
+  "indicators": [
+    {
+      "code": "MRSA",
+      "pathogen": "Staphylococcus aureus",
+      "resistance": "meticillina",
+      "isolates": 531,
+      "resistant": 143,
+      "percent": 26.9,
+      "ci95": "23.2-30.9"
+    },
+    {
+      "code": "VRE-faecium",
+      "pathogen": "Enterococcus faecium",
+      "resistance": "vancomicina",
+      "isolates": 193,
+      "resistant": 86,
+      "percent": 44.6,
+      "ci95": "37.4-51.9"
+    },
+    {
+      "code": "CREC",
+      "pathogen": "Escherichia coli",
+      "resistance": "cefalosporine di terza generazione",
+      "isolates": 904,
+      "resistant": 279,
+      "percent": 30.9,
+      "ci95": "27.9-34.0"
+    },
+    {
+      "code": "CRKP",
+      "pathogen": "Klebsiella pneumoniae",
+      "resistance": "carbapenemi",
+      "isolates": 495,
+      "resistant": 192,
+      "percent": 38.8,
+      "ci95": "34.5-43.2"
+    },
+    {
+      "code": "CRPA",
+      "pathogen": "Pseudomonas aeruginosa",
+      "resistance": "carbapenemi",
+      "isolates": 208,
+      "resistant": 37,
+      "percent": 17.8,
+      "ci95": "12.8-23.7"
+    },
+    {
+      "code": "CRAS",
+      "pathogen": "Acinetobacter species",
+      "resistance": "carbapenemi",
+      "isolates": 119,
+      "resistant": 104,
+      "percent": 87.4,
+      "ci95": "80.1-92.8"
+    }
+  ],
+  "trend_note": "Serie 2015-2024 nell'Appendice A: MRSA 22,6% (2018) -> 26,9% (2024); VRE-faecium 13,8% (2018, 29 isolati) -> 44,6% (2024); CREC 31,5% (2018) -> 30,9% (2024); CRKP 21,3% (2018) -> 38,8% (2024); CRPA 7,0% (2018) -> 17,8% (2024); CRAS 59,1% (2018, 22 isolati) -> 87,4% (2024). Numerosità basse fino al 2018.",
+  "license": "CC BY 4.0 (Note legali ISS, valide anche per EpiCentro: https://www.iss.it/contatti ; https://www.epicentro.iss.it/chi-siamo/disclaimer)",
+  "source": {
+    "title": "AR-ISS: sorveglianza nazionale dell Antibiotico-Resistenza. Dati 2024",
+    "report": "RIS-5/2025",
+    "table": "Tabella 1 (copertura) e Appendice A, Regione Marche (p. 48 a stampa, p. 56 del PDF)",
+    "url": "https://www.epicentro.iss.it/antibiotico-resistenza/ar-iss/RIS-5_2025.pdf",
+    "acquired_at": "2026-11-19",
+    "sha256": "50174DC846E19C6EAD2EA4D55982FC098487251A5EDAB8D484D6101B31482F0F"
+  }
+}

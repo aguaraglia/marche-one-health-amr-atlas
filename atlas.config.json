@@ -1,0 +1,36 @@
+{
+  "id": "marche_amr_atlas",
+  "regionCode": "MAR",
+  "regionName": "Marche",
+  "title": "Marche One Health AMR Atlas",
+  "shortName": "Marche One Health",
+  "brandIcon": "public/brand/marche-region-mark.svg",
+  "language": "it",
+  "publisher": "Codex Vitae ETS",
+  "dataStatusLabel": "Letteratura scientifica aggiornata il 20 novembre 2026 (23 studi). Dieci studi di struttura: Torrette 8, Ospedale San Salvatore di Pesaro 1, Ospedale Principe di Piemonte di Senigallia 1. Due studi su due strutture sono sui poligoni comunali. Fonti istituzionali: AR-ISS 2024 (copertura 83,6%, nessuna rete regionale, CC BY 4.0) e AIFA Open Data 2024 J01 (CC BY 4.0).",
+  "literaturePlacePhrase": "alle Marche",
+  "publicScopeSummary": "Confini ISTAT 2026 letti in UTF-8 (225 comuni, 5 province, regione 11); AR-ISS 2024 (CC BY 4.0; copertura 83,6%, nessuna rete regionale); AIFA Open Data 2024, antibatterici J01 (CC BY 4.0); 3 strutture nominate georiferite con Nominatim (ODbL); letteratura scientifica del 20 novembre 2026 (23 studi: 10 strutture, 2 comuni, 1 provincia, 10 regionali). Regione Marche, ARS Marche, AOU delle Marche, INRCA, AST, ARPA Marche, IZSUM e il PDF OsMed sono esclusi. Il segnaposto indica il luogo dello studio, non una prevalenza. Le aree vuote indicano nessuna evidenza pubblicata. Per gli studi che citano l'ospedale regionale o universitario di Ancona il segnaposto è il presidio di Torrette. Il fiume Chienti è sulle province di Macerata e Fermo.",
+  "map": {
+    "center": [
+      43.33,
+      13.05
+    ],
+    "zoom": 8
+  },
+  "overviewLiteratureLabel": "studi sulla mappa",
+  "provinceOutlines": {
+    "file": "public/geography/atlas_provinces.geojson",
+    "labels": {
+      "Pesaro e Urbino": "Pesaro e Urbino · 2 studi",
+      "Ancona": "Ancona · 11 studi",
+      "Macerata": "Macerata · 1 studio",
+      "Ascoli Piceno": "Ascoli Piceno · 0 studi",
+      "Fermo": "Fermo · 1 studio"
+    }
+  },
+  "catalogs": {
+    "layers": "public/data/layer-catalog.json",
+    "evidence": "public/data/evidence-catalog.json",
+    "literature": "public/data/literature-catalog.json"
+  }
+}

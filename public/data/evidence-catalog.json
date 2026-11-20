@@ -1,0 +1,32 @@
+{
+ "schema_version": "1.0",
+ "edition": "marche_amr_atlas",
+ "records": [
+  {
+   "id": "ar_iss_2024_marche",
+   "title": "AR-ISS 2024 - Marche",
+   "publisher": "Istituto Superiore di Sanita",
+   "evidence_type": "human_amr_regional",
+   "geography": "Marche",
+   "period": "2024",
+   "source_url": "https://www.epicentro.iss.it/antibiotico-resistenza/ar-iss/RIS-5_2025.pdf",
+   "data_file": "public/data/ar_iss_2024_marche.json",
+   "publication_status": "public_approved",
+   "license": "CC BY 4.0",
+   "note": "Copertura 83,6%, nessuna rete regionale (laboratori singoli). MRSA 26,9% (143/531), VRE-faecium 44,6% (86/193), CREC 30,9% (279/904), CRKP 38,8% (192/495), CRPA 17,8% (37/208), CRAS 87,4% (104/119); nessun downscaling."
+  },
+  {
+   "id": "aifa_opendata_2024_marche_j01",
+   "title": "AIFA Open Data 2024 - Marche, antibatterici J01",
+   "publisher": "Agenzia Italiana del Farmaco",
+   "evidence_type": "human_antimicrobial_use",
+   "geography": "Marche",
+   "period": "2024",
+   "source_url": "https://www.aifa.gov.it/documents/20142/847578/dati2024_04.12.2025.csv",
+   "data_file": "public/data/aifa_opendata_2024_marche_j01.json",
+   "publication_status": "public_approved",
+   "license": "CC BY 4.0",
+   "note": "Convenzionata 2.160.784 confezioni, 17,80 milioni di euro; acquisti diretti 619.384 confezioni, 7,72 milioni di euro. Consumo, non resistenza."
+  }
+ ]
+}

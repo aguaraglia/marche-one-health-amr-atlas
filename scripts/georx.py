@@ -1,0 +1,4 @@
+import re
+GEO=re.compile(r"\bMarche\b|\bMarchigian\w*|\bAncona\b|\bAnconitan\w*|\bPesaro\b|\bUrbino\b|\bMacerata\b|\bFermo\b|Ascoli Piceno|\bAscoli\b|\bFano\b|\bSenigallia\b|\bJesi\b|\bFabriano\b|Civitanova|San Benedetto del Tronto|\bCamerino\b|\bMatelica\b|\bTolentino\b|\bOsimo\b|\bRecanati\b|\bConero\b|\bMetauro\b|\bTronto\b|\bChienti\b|\bEsino\b|Torrette|Salesi|\bINRCA\b|Ospedali Riuniti (di |of )?Ancona|Polytechnic University of Marche|Universit[àa] Politecnica delle Marche|Montefeltro|Monti Sibillini|Sibillini|Gola del Furlo|Furlo|Frasassi|Gran Sasso e Monti della Laga|Monti della Laga",re.I)
+WILD=re.compile(r"central Italy|Apennin\w*|Adriatic|\bTiber\b",re.I)
+AFF=re.compile(r"Ancona|Pesaro|Urbino|Macerata|Camerino|Fermo|Ascoli|\bFano\b|\bJesi\b|Matelica|Tolentino|\bMarche\b|Senigallia|Fabriano|Civitanova|San Benedetto del Tronto|Torrette|INRCA",re.I)
